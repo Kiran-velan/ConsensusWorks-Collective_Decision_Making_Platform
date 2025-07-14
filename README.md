@@ -1,4 +1,5 @@
-# 🧠 Artificial Swarm Intelligence Platform for Decision Making & Opinion Gathering
+# 🧠 Artificial Swarm Intelligence 
+# Platform for Decision Making & Opinion Gathering
 
 Welcome to **ASI**, a collective intelligence platform that transforms group decision-making through dynamic visualizations, real-time interactions, and swarm-based logic.
 
