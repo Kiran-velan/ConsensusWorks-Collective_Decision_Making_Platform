@@ -1,15 +1,15 @@
-# 🧠 Artificial Swarm Intelligence 
+# 🧠 ConsensusWorks 
 # Platform for Decision Making & Opinion Gathering
 
-Welcome to **ASI**, a collective intelligence platform that transforms group decision-making through dynamic visualizations, real-time interactions, and swarm-based logic.
+Welcome to **ConsensusWorks**, a collective intelligence platform that transforms group decision-making through dynamic visualizations, real-time interactions, and game theory-based logic.
 
 ---
 
-## 🚀 What is Artificial Swarm Intelligence?
+## 🚀 What is Game Engine here? - Bradley Terry Model
 
-ASI is an interactive web platform that allows groups to participate in real-time decision-making sessions through sliders, visual feedback, and coordinated algorithms.
+This is an interactive web platform that allows groups to participate in real-time decision-making sessions through sliders, visual feedback, and coordinated algorithms.
 
-Inspired by **hive-mind** behavior and **swarm intelligence**, this tool aims to make democratic decisions **faster**, **more visual**, and **more inclusive**.
+Inspired by **hive-mind** behavior and **Game Theory**, this tool aims to make democratic decisions **faster**, **more visual**, and **more inclusive**.
 
 ### 👥 Use Cases
 
@@ -31,7 +31,7 @@ Inspired by **hive-mind** behavior and **swarm intelligence**, this tool aims to
 
 | Home Page | Organizer Panel | Discussion Live |
 |----------|-----------------|-----------------|
-| <img width="1880" height="903" alt="Screenshot 2025-07-14 170325" src="https://github.com/user-attachments/assets/a4ca310a-969c-4f6c-9088-d94040b52737" />| <img width="1894" height="895" alt="Screenshot 2025-07-14 170530" src="https://github.com/user-attachments/assets/aa7bb6df-2bfa-4567-a794-901f5616c719" />| <img width="1905" height="918" alt="Screenshot 2025-07-14 170434" src="https://github.com/user-attachments/assets/69bddd22-ade1-4f69-a1ce-6f883682f216" /> |
+| <img width="1880" height="903" alt="Screenshot 2025-07-14 170325" src="https://github.com/user-attachments/assets/a4ca310a-969c-4f6c-9088-d94040b52737" />| <img width="1894" height="895" alt="Screenshot 2025-07-14 170530" src="https://github.com/user-attachments/assets/aa7bb6df-2bfa-4567-a794-901f5616c719" />| <img width="1905" height="918" alt="Screenshot 2025-10-10 001254" src="https://github.com/user-attachments/assets/69bddd22-ade1-4f69-a1ce-6f883682f216" /> |
 
 > Visit [`screenshots`](https://drive.google.com/drive/folders/1_w8Odba2x5esbt5-LQl6QC38EALNndaX?usp=sharing) for more UI views.
 
@@ -47,16 +47,19 @@ Inspired by **hive-mind** behavior and **swarm intelligence**, this tool aims to
 
 ### ⚙️ Backend
 
-- **Java 23**, **Spring Boot 3**
+- **Java 21**, **Spring Boot 3**
 - **Spring MVC**, **Spring Security**
 - **WebSocket** (STOMP) for real-time chat & slider input
 - **Hibernate/JPA** with **MySQL** for persistence
+- **Redis** Caching
+- **Microservice Architecture** for Game Engine 
 
 ### 🧠 Intelligence Engine
 
-- **Custom Particle Swarm Optimization (PSO)** algorithm
-- Calculates puck position from collective slider input
+- **Bradley Terry Model**
+- Calculates strength of each options from collective slider input
 - Dynamic fitness evaluation & convergence mechanism
+- Participants negotiate and re-evaluate their preferences to attain consensus
 
 ### 🎨 Frontend
 
@@ -77,13 +80,12 @@ Inspired by **hive-mind** behavior and **swarm intelligence**, this tool aims to
 ### 🗳️ Discussion Sessions
 - Time-based question & option rotation
 - 6 sliders per user for opinion expression
-- Real-time **puck movement** inside hexagon using PSO
+- Real-time **visual** representation
 - In-session **chat room** per discussion
 
 ### 📊 Results & Reports
 - Finalized answers stored per question
-- Public result view (`result.html`)
-- Detailed analytics + fitness rankings in admin report (`report.html`)
+- Detailed analytics + rankings in the report (`report.html`)
 - PDF download for reports
 
 ---
@@ -94,7 +96,7 @@ User ↔ Frontend (Thymeleaf + JS)
 ↕ WebSocket
 Backend (Spring Boot) ↔ MySQL
 ↕ Microservice
-PSO Engine (Python-based)
+BTM Engine (Python-based)
 ```
 
 ---
@@ -119,19 +121,17 @@ PSO Engine (Python-based)
 ## 🌍 Roadmap (Startup Vision)
 
 - [x] Public discussion mode
-- [x] PSO integration with dynamic rounds
-- [x] Visual puck movement
+- [x] BTM integration with dynamic rounds
+- [x] Visual movement
 - [x] Result reporting
 - [ ] Real-time participant analytics
-- [ ] Scalable cloud deployment
-- [ ] Mobile-first redesign
 
 ---
 
-## 💡 Why Artificial Swarm Intelligence?
+## 💡 Why This?
 
 🌀 Most platforms rely on basic polls.  
-Swarm based Intelligence lets users **co-decide in real time** — not just cast static votes.
+Swarm based Intelligence lets users **co-decide in real time** — not just cast static votes, where everyone agrees with the result.
 
 🧭 It visually **guides a group toward convergence**, helping uncover the **strongest collective opinion** — even in complex, multi-option scenarios.
 
@@ -143,7 +143,7 @@ Swarm based Intelligence lets users **co-decide in real time** — not just cast
 - Swarm-based decision systems
 - Real-time WebSocket-driven architectures
 
-Contact: **kiranvelan444@gmail.com**
+Contact: **kiranvelan007@gmail.com**
 
 ---
 
