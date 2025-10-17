@@ -31,7 +31,7 @@ Inspired by **hive-mind** behavior and **Game Theory**, this tool aims to make d
 
 | Home Page | Organizer Panel | Discussion Live |
 |----------|-----------------|-----------------|
-| <img width="1880" height="903" alt="Screenshot 2025-07-14 170325" src="https://github.com/user-attachments/assets/a4ca310a-969c-4f6c-9088-d94040b52737" />| <img width="1894" height="895" alt="Screenshot 2025-07-14 170530" src="https://github.com/user-attachments/assets/aa7bb6df-2bfa-4567-a794-901f5616c719" />| <img width="1905" height="918" alt="Screenshot 2025-10-10 001254" src="https://github.com/user-attachments/assets/69bddd22-ade1-4f69-a1ce-6f883682f216" /> |
+| <img width="1880" height="903" alt="Screenshot 2025-10-17 151533" src="https://github.com/user-attachments/assets/6f1177c0-8429-4034-8b2d-38bc7b636b35" />| <img width="1894" height="895" alt="Screenshot 2025-10-17 151520" src="https://github.com/user-attachments/assets/2940ff7e-ccd9-4608-9dd4-4b3b4524b5cc" />| <img width="1905" height="918" alt="Screenshot 2025-10-10 001254" src="https://github.com/user-attachments/assets/b298a84f-abab-4489-bb9e-0a48eb04fbdf" /> |
 
 > Visit [`screenshots`](https://drive.google.com/drive/folders/1_w8Odba2x5esbt5-LQl6QC38EALNndaX?usp=sharing) for more UI views.
 
