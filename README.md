@@ -33,15 +33,7 @@ Inspired by **hive-mind** behavior and **Game Theory**, this tool aims to make d
 |----------|-----------------|-----------------|
 | <img width="1880" height="903" alt="Screenshot 2025-10-17 151533" src="https://github.com/user-attachments/assets/6f1177c0-8429-4034-8b2d-38bc7b636b35" />| <img width="1894" height="895" alt="Screenshot 2025-10-17 151520" src="https://github.com/user-attachments/assets/2940ff7e-ccd9-4608-9dd4-4b3b4524b5cc" />| <img width="1905" height="918" alt="Screenshot 2025-10-10 001254" src="https://github.com/user-attachments/assets/b298a84f-abab-4489-bb9e-0a48eb04fbdf" /> |
 
-> Visit [`screenshots`](https://drive.google.com/drive/folders/1_w8Odba2x5esbt5-LQl6QC38EALNndaX?usp=sharing) for more UI views.
-
----
-
-## 🎥 Demo Video
-
-▶️ [Watch the Platform in Action](https://drive.google.com/file/d/199BYkdkJxsuq-tObgBuV-AeU-iD2P6EA/view?usp=sharing)
-
----
+> Visit [`screenshots and demo`](https://drive.google.com/drive/folders/1_w8Odba2x5esbt5-LQl6QC38EALNndaX?usp=sharing) for more UI views.
 
 ## 🛠️ Built With
 
