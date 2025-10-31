@@ -1,4 +1,4 @@
-# 🧠 ConsensusWorks 
+# 🧠 ConsensusWorks - **[Live](https://consensusworks-production.up.railway.app/)**
 # Platform for Decision Making & Opinion Gathering
 
 Welcome to **ConsensusWorks**, a collective intelligence platform that transforms group decision-making through dynamic visualizations, real-time interactions, and game theory-based logic.
