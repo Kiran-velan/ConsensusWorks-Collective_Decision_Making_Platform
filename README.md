@@ -135,7 +135,7 @@ Swarm based Intelligence lets users **co-decide in real time** — not just cast
 - Swarm-based decision systems
 - Real-time WebSocket-driven architectures
 
-Contact: **kiranvelan007@gmail.com**
+Contact: **kiraniitj26@gmail.com**
 
 ---
 
