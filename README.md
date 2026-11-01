@@ -1,4 +1,4 @@
-# 🧠 ConsensusWorks - **[Live](https://consensusworks-production.up.railway.app/)**
+# 🧠 ConsensusWorks - [Live](https://consensusworks-production.up.railway.app/) - [SourceCode](https://github.com/Kiran-velan/ConsensusWorks)
 # Platform for Decision Making & Opinion Gathering
 
 Welcome to **ConsensusWorks**, a collective intelligence platform that transforms group decision-making through dynamic visualizations, real-time interactions, and game theory-based logic.
@@ -136,13 +136,6 @@ Swarm based Intelligence lets users **co-decide in real time** — not just cast
 - Real-time WebSocket-driven architectures
 
 Contact: **kiraniitj26@gmail.com**
-
----
-
-## 📄 License
-
-This public repository is for presentation purposes.  
-The full codebase is private and not open-sourced currently.
 
 ---
 
